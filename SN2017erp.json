@@ -1,0 +1,12 @@
+{
+	"SN2017erp":{
+		"name":"SN2017erp",
+		"errors":[
+			{
+				"value":"Cambridge Photometric Calibration Server",
+				"kind":"name",
+				"extra":"ra"
+			}
+		]
+	}
+}
