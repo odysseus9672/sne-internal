@@ -1,0 +1,17 @@
+{
+	"SN2005ki":{
+		"name":"SN2005ki",
+		"errors":[
+			{
+				"value":"2003yCat.2246....0C",
+				"kind":"bibcode",
+				"extra":"dec"
+			},
+			{
+				"value":"2000A&AS..143....9W",
+				"kind":"bibcode",
+				"extra":"dec"
+			}
+		]
+	}
+}
