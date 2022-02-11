@@ -1,0 +1,17 @@
+{
+	"SN2004dt":{
+		"name":"SN2004dt",
+		"errors":[
+			{
+				"value":"2003yCat.2246....0C",
+				"kind":"bibcode",
+				"extra":"dec"
+			},
+			{
+				"value":"2000A&AS..143....9W",
+				"kind":"bibcode",
+				"extra":"dec"
+			}
+		]
+	}
+}
