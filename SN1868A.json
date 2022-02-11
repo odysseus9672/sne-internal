@@ -1,0 +1,17 @@
+{
+	"SN1868A":{
+		"name":"SN1868A",
+		"errors":[
+			{
+				"value":"WikiPedia",
+				"kind":"name",
+				"extra":"ra"
+			},
+			{
+				"value":"Latest Supernovae",
+				"kind":"name",
+				"extra":"ra"
+			}
+		]
+	}
+}
