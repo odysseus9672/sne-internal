@@ -9,5 +9,20 @@
 				"value":"PS1-11aij"
 			}
 		]
+		"sources":[
+			{
+				"bibcode":"2019ApJS..240...23A"
+			}
+		],
+		"hostra":[
+			{
+				"value":"16:17:17.75"
+			}
+		]
+		"hostdec":[
+			{
+				"value":"+55:22:49.06"
+			}
+		]
 	}
 }
